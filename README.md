@@ -20,7 +20,7 @@ A Streamlit graphical user interface is bundled in this repository, structured u
 ### Installation
 Clone this repository and easily install prerequisites:
 ```bash
-git clone https://github.com/YOUR_USERNAME/CRC-5FU-Early-Predictor.git
+git clone https://github.com/souhrid-onco/CRC-5FU-Early-Predictor.git
 cd CRC-5FU-Early-Predictor
 pip install -r requirements.txt
 ```
