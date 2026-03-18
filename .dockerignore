@@ -1,0 +1,32 @@
+# Data Sanitization Rule
+data/raw/
+*.csv
+!data/processed/*.csv
+
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Dev tooling
+.git/
+.gitignore
+.github/
+.vscode/
+
+# Ignore Jupyter notebooks to keep image slim
+notebooks/
+*.ipynb
+
+# Cloud files
+Dockerfile
+.dockerignore
