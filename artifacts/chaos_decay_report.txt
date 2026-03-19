@@ -1,0 +1,5 @@
+=== FINAL CHAOS DECAY REPORT ===
+Clean Benchmark AUC: 0.9667
+Chaos-Adjusted AUC: 0.4157
+Net Predictive Decay: -0.5510
+Parameters: 10% Array Gaussian Noise, 3 Structural Gene Dropouts (['Universal_Gene_0', 'Universal_Gene_2', 'Universal_Gene_9'])
