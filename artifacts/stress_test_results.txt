@@ -1,0 +1,1 @@
+Geographic Stress-Test AUC: 0.4598
